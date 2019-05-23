@@ -1,0 +1,17 @@
+{
+  "name": "howtonpm",
+  "version": "1.0.1",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Carolina",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "'https://github.com/worskshopper/how-to-npm'"
+  }
+}
